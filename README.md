@@ -1,0 +1,1 @@
+# wildfly-feign-test
